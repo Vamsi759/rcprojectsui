@@ -126,7 +126,7 @@ function App() {
 
          {showButtons && (
           <div className="mt-5">
-            <h2 className="text-center mb-4">🚀 Open Your Projects</h2>
+            <h2 className="text-center mb-4">🚀 Open Projects</h2>
             <div className="row">
               {PROJECT_URLS.map((url, index) => (
                 <div className="col-md-4 mb-3" key={index}>
