@@ -3,8 +3,7 @@ import "./App.css";
 
 const PROJECT_URLS = [
   "https://fullstackmangproj88backfronted.onrender.com/ins/home",
-  "https://emp1-jan-thymleaf-2-us8d.onrender.com/students/open",
-  "https://aistudynotessaving.onrender.com/api/open",
+  "https://emp1-jan-thymleaf-2-us8d.onrender.com/students/open","https://entitydataregistrationproject.onrender.com/students","https://aistudynotessaving.onrender.com/api/open",
 ];
 
 const TOTAL_SECONDS = 120;
