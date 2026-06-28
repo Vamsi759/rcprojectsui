@@ -22,15 +22,17 @@ const PROJECTS = [
     icon: "🗄️",
     desc: "Entity & Data Registration System",
   },
-  {
+  
+];
+/*
+{
     name: "AI Study Notes",
     url: "https://aistudynotessaving.onrender.com/api/open7",
     github: "https://github.com/Vamsi759/AIStudyNotesSave/tree/main",
     icon: "🤖",
     desc: "AI-Powered Study Notes Saver",
   },
-];
-
+*/
 const TOTAL_SECONDS = 120;
 
 export default function App() {
