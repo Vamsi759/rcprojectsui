@@ -10,7 +10,7 @@ const PROJECTS = [
   },
   {
     name: "Student Management (Thymeleaf)",
-    url: "https://aistudynotesavingonlinewebapp.onrender.com",
+    url: "https://emp1-jan-thymleaf-2-us8d.onrender.com/students/open",
     github: "https://github.com/Vamsi759/emp1_jan_thymleaf/tree/main",
     icon: "🎓",
     desc: "Student Portal with Thymeleaf",
