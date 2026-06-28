@@ -24,7 +24,7 @@ const PROJECTS = [
   },
   {
     name: "AI Study Notes",
-    url: "https://aistudynotessaving.onrender.com/api/open7",
+    url: "https://aistudynotesavingonlinewebapp.onrender.com/api/open7",
     github: "https://github.com/Vamsi759/AiNoteden/tree/main",
     icon: "🤖",
     desc: "AI-Powered Study Notes Saver",
