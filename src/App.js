@@ -10,7 +10,7 @@ const PROJECTS = [
   },
   {
     name: "Student Management (Thymeleaf)",
-    url: "https://emp1-jan-thymleaf-2-us8d.onrender.com/students/open",
+    url: "https://aistudynotesavingonlinewebapp.onrender.com",
     github: "https://github.com/Vamsi759/emp1_jan_thymleaf/tree/main",
     icon: "🎓",
     desc: "Student Portal with Thymeleaf",
@@ -22,16 +22,17 @@ const PROJECTS = [
     icon: "🗄️",
     desc: "Entity & Data Registration System",
   },
-  
-];
-/*
-{
+  {
     name: "AI Study Notes",
     url: "https://aistudynotessaving.onrender.com/api/open7",
-    github: "https://github.com/Vamsi759/AIStudyNotesSave/tree/main",
+    github: "https://github.com/Vamsi759/AiNoteden/tree/main",
     icon: "🤖",
     desc: "AI-Powered Study Notes Saver",
   },
+  
+];
+/*
+
 */
 const TOTAL_SECONDS = 120;
 
