@@ -307,7 +307,7 @@ export default function App() {
           </div>
 
           {/* Project Cards Grid */}
-          <p className="section-title"><span>⚡</span> Projects</p>
+          <p className="section-title"><span>⚡</span>Full Stack Projects</p>
           <div className="grid">
             {PROJECTS.map((proj, idx) => (
               <div className="proj-card" key={idx}>
