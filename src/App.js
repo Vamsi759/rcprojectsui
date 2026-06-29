@@ -34,7 +34,7 @@ const PROJECTS = [
 /*
 {
     name: "Ai ChatBoot",
-    url: "https://aistudynotessaving.onrender.com/api/open",
+    url: "https://aistudynotessaving.onrender.com/api/open7",
     github: "https://github.com/Vamsi759/AIStudyNotesSave/tree/main",
     icon: "🗄️",
     desc: "Ai ChatBoot",
