@@ -32,7 +32,13 @@ const PROJECTS = [
   
 ];
 /*
-
+{
+    name: "Ai ChatBoot",
+    url: "https://aistudynotessaving.onrender.com/api/open",
+    github: "https://github.com/Vamsi759/AIStudyNotesSave/tree/main",
+    icon: "🗄️",
+    desc: "Ai ChatBoot",
+  },
 */
 const TOTAL_SECONDS = 120;
 
