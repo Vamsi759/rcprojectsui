@@ -29,6 +29,13 @@ const PROJECTS = [
     icon: "🤖",
     desc: "AI-Powered Study Notes Saver",
   },
+   {
+    name: "CyclesManagmentfullstackproject",
+    url: "https://cyclescompanyfullstackproject.onrender.com/api/open",
+    github: "https://github.com/Vamsi759/CyclesCompanyFullStackProject",
+    icon: "🗄️",
+    desc: "Full Stack Backend + Frontend",
+  },
   
 ];
 /*
